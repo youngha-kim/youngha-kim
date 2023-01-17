@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![HTML5](https://img.shields,io/badge/)
+![HTML5](https://img.shields,io/badge/-HTMLS-F05032?style=for-the-badges&logo=html5&logoColor=ffffff)
 <!--
 **youngha-kim/youngha-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
