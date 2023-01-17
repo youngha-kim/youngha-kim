@@ -7,6 +7,7 @@
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=black)
 ![React-Query](https://img.shields.io/badge/-React--Query-%23FF4154?style=flat-square&logo=React%20Query&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-%23010101?style=flat-square&logo=Socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=black)
 
 <!--
 **youngha-kim/youngha-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
