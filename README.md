@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[!JavaScript][https://img.shields.io/badge/-JavaScript-%23ECD53F?logo=JavaScript&logoColor=black]
+[!JavaScript](https://img.shields.io/badge/JavaScript-%23ECD53F?style=flat-square&logo=JavaScript&logoColor=black)
+
+
 <!--
 **youngha-kim/youngha-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
