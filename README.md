@@ -1,4 +1,6 @@
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+
  ### Languages & Libraries
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=black)
