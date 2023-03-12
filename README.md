@@ -7,8 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23ECD53F?style=flat-square&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=TypeScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=black)
-![React-Query](https://img.shields.io/badge/-React--Query-%23FF4154?style=flat-square&logo=React%20Query&logoColor=black)
-![Socket.io](https://img.shields.io/badge/-Socket.io-%23010101?style=flat-square&logo=Socket.io&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=black)
 
 <!--
