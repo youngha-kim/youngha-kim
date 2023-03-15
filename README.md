@@ -30,15 +30,15 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 </div>
-
+<hr/>
 
 ### hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungha-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<hr/>
 
 ### status
 ![youngha's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngha-kim&show_icons=true&theme=radical)
-
+<hr/>
          
 ### [Notion Blog](https://young-ha.notion.site/My-Front-end-Studies-20c65dacb6784af8ad4fec67ec45bb07)
 <img width="500" alt="스크린샷 2023-03-15 오후 11 08 16" src="https://user-images.githubusercontent.com/84136919/225334081-ee5ab338-afe0-4906-8720-16f64ee2ea1c.png">
