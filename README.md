@@ -39,6 +39,10 @@
 ### status
 ![youngha's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngha-kim&show_icons=true&theme=radical)
 
+         
+### [Notion Blog](https://young-ha.notion.site/My-Front-end-Studies-20c65dacb6784af8ad4fec67ec45bb07)
+<img width="500" alt="스크린샷 2023-03-15 오후 11 08 16" src="https://user-images.githubusercontent.com/84136919/225334081-ee5ab338-afe0-4906-8720-16f64ee2ea1c.png">
+
 
 </div>
 
